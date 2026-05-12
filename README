@@ -1,0 +1,25 @@
+# PromptPCv2
+
+Repositorio complementario del artículo **“Desarrollo del Pensamiento Computacional en carreras informáticas: dificultades y nuevas estrategias”**.
+
+Este espacio reúne recursos didácticos asociados a una estrategia pedagógica basada en el uso de chatbots avanzados para fortalecer el Pensamiento Computacional (PC) en cursos iniciales de programación.
+
+## Propósito
+
+Documentar ejemplos de interacción con chatbots, prompts iniciales y refinados, análisis de errores y soluciones en PSeInt y Java.
+
+## Caso de estudio
+
+El caso de estudio corresponde a la unidad de **estructuras repetitivas**, con énfasis en el uso de ciclos `Mientras`, `Para` y su migración progresiva hacia Java.
+
+## Recursos del repositorio
+
+- Prompts iniciales y refinados.
+- Soluciones en PSeInt.
+- Soluciones en Java.
+- Análisis de errores.
+- Guía docente para reutilizar la estrategia.
+
+## Condiciones de uso
+
+Los materiales pueden ser utilizados y adaptados con fines educativos, citando la fuente correspondiente.
